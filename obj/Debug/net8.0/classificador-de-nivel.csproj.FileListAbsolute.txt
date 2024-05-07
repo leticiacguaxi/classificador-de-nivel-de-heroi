@@ -1,0 +1,14 @@
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\classificador-de-nivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\classificador-de-nivel.AssemblyInfoInputs.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\classificador-de-nivel.AssemblyInfo.cs
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\classificador-de-nivel.csproj.CoreCompileInputs.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\bin\Debug\net8.0\classificador-de-nivel.exe
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\bin\Debug\net8.0\classificador-de-nivel.deps.json
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\bin\Debug\net8.0\classificador-de-nivel.runtimeconfig.json
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\bin\Debug\net8.0\classificador-de-nivel.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\bin\Debug\net8.0\classificador-de-nivel.pdb
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\classificador-de-nivel.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\refint\classificador-de-nivel.dll
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\classificador-de-nivel.pdb
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\classificador-de-nivel.genruntimeconfig.cache
+C:\Users\letic\OneDrive\Área de Trabalho\Códigos\classificador-de-nivel\obj\Debug\net8.0\ref\classificador-de-nivel.dll
